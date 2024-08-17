@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+=======
+node_modules
+
+# Output
+.output
+.vercel
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+>>>>>>> origin/main
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
